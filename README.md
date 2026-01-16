@@ -1,6 +1,6 @@
 # Desafio NFT - Beleza no Sertão 🌵🌼
 
-Este repositório documenta a criação do NFT **"Beleza no Sertão"** na **Polygon Amoy Testnet**.
+Documentação da criação do NFT **"Beleza no Sertão"** na **Polygon Amoy Testnet**.
 
 ---
 
@@ -53,5 +53,10 @@ O NFT pode ser verificado no **Amoy Polygonscan** através do contrato/token:
 - Taxas pagas com POL de faucet (sem custo real).  
 - Link público disponível para comprovação.  
 
+---
+
+## 📌 Observação importante
+Este NFT foi criado na **Polygon Amoy Testnet** para fins de demonstração, evitando custos reais e riscos de produção.  
+Em ambiente de produção, o mesmo processo pode ser replicado na **Polygon Mainnet**, garantindo que o NFT exista de forma oficial e permanente.
 
   
